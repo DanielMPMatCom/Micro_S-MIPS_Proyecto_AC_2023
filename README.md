@@ -1,5 +1,7 @@
 # Orientación Proyecto AC
 
+![Micro](micro.jpeg)
+
 ## Materiales
 
 Para la realización del proyecto se entregan junto con este informe los siguientes materiales:
